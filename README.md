@@ -89,14 +89,6 @@ Start services in this order:
 3. API Gateway
 4. Other Microservices
 
-### 4️⃣ Access APIs
-
-Use Postman or browser:
-
-```
-http://localhost:8080
-```
-
 ---
 
 ## 📊 Key Highlights
